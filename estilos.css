@@ -1,0 +1,99 @@
+body {
+    background-image: url(fondo-pagina.jpg);
+    color: rgb(77, 0, 0);
+    margin: 0%;
+    padding: 0%;
+}
+
+h3{
+font-size: 230%;
+position: absolute;
+top: 56%;
+left: 33%;
+color: #945b3a;
+}
+
+li{
+list-style: none;
+margin-right: 6%;
+}
+
+.Inicio{
+    margin-left: 11%;
+}
+
+ul{
+    display: flex;
+    margin-top: 7%;
+}
+
+.flor{
+   position:absolute ;
+   margin: 0px 0px 0px 745px ;
+}
+
+.menu-horizontal{
+text-decoration: none;
+color: rgb(77, 0, 0);
+background-color:rgb(180, 202, 109);
+font-size: 120%;
+padding: 15px 20px;
+border-radius: 15px;
+max-width: 600px;
+margin: 35px 0px 0px 148px ;
+}
+.primeras-imagenes{
+    margin-top: 90px;
+}
+
+.una{
+    position: absolute;
+    z-index: -2;
+    margin-left: 40px;
+    }
+    .dos{
+        position: absolute;
+        z-index: -1;
+        margin-top: 40px;
+        margin-left: 180px;
+        }
+        .tres{
+            position: absolute;
+            z-index: 1;
+            margin-top: 150px;
+            margin-left: 66px;
+            }
+            
+.parrafo{
+width: 40%;
+margin-left: 530px;
+font-size: 25px;
+margin-top: 147px;
+}
+
+.texto-rosa{
+    color: rgb(219, 142, 115);
+}
+
+.otras-imagenes{
+    margin-top: 160px;
+} 
+
+     .cuatro{
+      position: absolute;
+      margin-left: 13px;
+     }
+          .cinco{
+        position: absolute;
+        margin-left: 655px;
+                }
+               
+.parrafo-dos{
+width: 30%;
+font-size: 25px;
+margin-left: 326px;
+}                
+
+.fin-inicio{
+    margin-top: 70px;
+}
